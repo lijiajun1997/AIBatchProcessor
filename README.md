@@ -41,6 +41,7 @@
 - **智能重试逻辑** - 失败请求的自动重试机制，支持指数退避策略
 - **流式响应支持** - 启用流式模式以获得实时 AI 响应，边生成边显示
 - **数据导出** - 将处理结果导出为 Excel 格式，保持原始列顺序
+<img width="2937" height="1460" alt="image" src="https://github.com/user-attachments/assets/a07f0134-0482-4316-897e-31f7f7213655" />
 
 ### 高级功能
 
@@ -256,6 +257,7 @@ VITE_DEFAULT_PROMPT_TEMPLATE=Summarize: {text}
 1. 点击"创建新项目"按钮
 2. 输入项目名称（必填）和描述（可选）
 3. 点击确认创建
+<img width="2913" height="1512" alt="image" src="https://github.com/user-attachments/assets/8aaa8a47-13fb-4095-b493-50c2eab09e8f" />
 
 ### 2. 上传数据文件
 
@@ -967,9 +969,9 @@ MIT 许可证允许你：
 如需帮助或有任何疑问：
 
 1. 📖 查看[使用指南](#使用指南)和[故障排除](#故障排除)
-2. 🔍 搜索[已有 Issues](https://github.com/yourusername/ai-batch-processor/issues)
-3. 💬 创建[新 Issue](https://github.com/yourusername/ai-batch-processor/issues/new)
-4. 📧 发送邮件至: support@example.com
+2. 🔍 搜索[已有 Issues](https://github.com/lijiajun1997/AIBatchProcessor/issues)
+3. 💬 创建[新 Issue](https://github.com/lijiajun1997/AIBatchProcessor/issues/new)
+4. 📧 发送邮件至: lijiajun@zhituxueban.com
 
 ---
 
@@ -977,6 +979,6 @@ MIT 许可证允许你：
 
 **⭐ 如果这个项目对你有帮助，请给个 Star！⭐**
 
-用 ❤️ 打造 | [报告 Bug](https://github.com/yourusername/ai-batch-processor/issues) · [请求功能](https://github.com/yourusername/ai-batch-processor/issues)
+用 ❤️ 打造 | [报告 Bug](https://github.com/lijiajun1997/AIBatchProcessor/issues) · [请求功能](https://github.com/lijiajun1997/AIBatchProcessor/issues)
 
 </div>
